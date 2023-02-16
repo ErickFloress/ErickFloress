@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloress&theme=dark)](https://github.com/ErickFloress/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-flores-90198a190/)
+[![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/erick.flores.3979/)
+	
 
 ## 📚 I'm learning this programming languages
 
