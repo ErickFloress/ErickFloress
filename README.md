@@ -1,7 +1,7 @@
 ## Hello! My name is Erick 👋😀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFloress&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloress)](https://github.com/ErickFloress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloress&theme=dark)](https://github.com/ErickFloress/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-flores-90198a190/)
 
