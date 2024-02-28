@@ -3,10 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFloress&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloress&theme=dark)](https://github.com/ErickFloress/github-readme-stats)
 
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/erick.flores.3979/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-flores-90198a190/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErickFlooress)
 	
 
 ## 📚 I'm learning this programming languages
