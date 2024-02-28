@@ -1,4 +1,4 @@
-## Hello! My name is Erick 👋😀
+## quality assurance assistent in Nelogica 👋😀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFloress&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloress&theme=dark)](https://github.com/ErickFloress/github-readme-stats)
